@@ -69,3 +69,40 @@ h2{
 .latest-p{
     background-image: url("images/biography-bg.png");
 }
+.last-banner{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.last-to-last{
+
+    width: 25%;
+
+}
+.what{
+    padding-bottom: 40px;
+}
+.ceo{
+    color: darkgrey;
+}
+.lorem{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.gmail{
+    font-size: 25px;
+    font-weight: 600;
+}
+#last-pattan{
+    text-decoration: none;
+    background-image: linear-gradient( pink, deeppink);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
