@@ -95,12 +95,18 @@ h2{
     font-size: 25px;
     font-weight: 600;
 }
-#last-pattan{
+.simanto{
+    text-align: center;
     text-decoration: none;
     background-image: linear-gradient( pink, deeppink);
     padding: 10px 30px;
     border-radius: 5px;
     color: white;
+    width: 40%;
+    height: 20%;
+    float: center;
+    margin-left: 30%;
+    margin-right: %;
 }
 footer p{
     text-align: center;
